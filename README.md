@@ -1,2 +1,3 @@
 # hello-world
-Testing out git features
+
+testing how git works
